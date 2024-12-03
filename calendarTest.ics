@@ -8,7 +8,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250101
 DTEND;VALUE=DATE:20250102
 SUMMARY:Fresh Starts
-DESCRIPTION:Bible Verse: 'Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!' \n- 2 Corinthians 5:17  \n\nActivities: \n- Reflect on past mistakes and forgive yourself. \n- Write down three goals for the new year. \n- Spend 10 minutes in prayer.
+DESCRIPTION:Bible Verse: 'Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!' \n- 2 Corinthians 5:17  \n\nActivities: \n● Reflect on past mistakes and forgive yourself. \n● Write down three goals for the new year. \n● Spend 10 minutes in prayer.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -21,7 +21,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250102
 DTEND;VALUE=DATE:20250103
 SUMMARY:Setting Goals
-DESCRIPTION:Bible Verse: "Commit to the LORD whatever you do, and he will establish your plans." \n- Proverbs 16:3 \n\nActivities: \n- List your top five goals for the year and outline steps to achieve them. \n- Pray for clarity and determination to pursue your goals. \n- Share your goals with a friend or family member for accountability.
+DESCRIPTION:Bible Verse: "Commit to the LORD whatever you do, and he will establish your plans." \n- Proverbs 16:3 \n\nActivities: \n● List your top five goals for the year and outline steps to achieve them. \n● Pray for clarity and determination to pursue your goals. \n● Share your goals with a friend or family member for accountability.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -34,7 +34,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250103
 DTEND;VALUE=DATE:20250104
 SUMMARY:Embracing Change
-DESCRIPTION:Bible Verse: "See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland." \n- Isaiah 43:19 \n\nActivities: \n- Write about a recent change in your life and how it has impacted you. \n- Make a list of positive changes you can embrace this year. \n- Pray for the courage to accept and adapt to new changes.
+DESCRIPTION:Bible Verse: "See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland." \n- Isaiah 43:19 \n\nActivities: \n● Write about a recent change in your life and how it has impacted you. \n● Make a list of positive changes you can embrace this year. \n● Pray for the courage to accept and adapt to new changes.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -47,7 +47,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250104
 DTEND;VALUE=DATE:20250105
 SUMMARY:Overcoming Fear
-DESCRIPTION:Bible Verse: "For God has not given us a spirit of fear, but of power and of love and of a sound mind." \n- 2 Timothy 1:7 \n\nActivities: \n- Identify a fear that has been holding you back and write about it. \n- Take a small step toward facing this fear today. \n- Pray for strength and courage to overcome your fears.
+DESCRIPTION:Bible Verse: "For God has not given us a spirit of fear, but of power and of love and of a sound mind." \n- 2 Timothy 1:7 \n\nActivities: \n● Identify a fear that has been holding you back and write about it. \n● Take a small step toward facing this fear today. \n● Pray for strength and courage to overcome your fears.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -60,7 +60,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250105
 DTEND;VALUE=DATE:20250106
 SUMMARY:Starting Fresh
-DESCRIPTION:Bible Verse: "Create in me a pure heart, O God, and renew a steadfast spirit within me." \n- Psalm 51:10 \n\nActivities: \n- Reflect on areas of your life that need a fresh start. \n- Write a letter to yourself expressing your hopes for this new beginning. \n- Spend time in prayer, asking God to help you start anew.
+DESCRIPTION:Bible Verse: "Create in me a pure heart, O God, and renew a steadfast spirit within me." \n- Psalm 51:10 \n\nActivities: \n● Reflect on areas of your life that need a fresh start. \n● Write a letter to yourself expressing your hopes for this new beginning. \n● Spend time in prayer, asking God to help you start anew.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -73,7 +73,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250106
 DTEND;VALUE=DATE:20250107
 SUMMARY:Letting Go
-DESCRIPTION:Bible Verse: "Cast all your anxiety on him because he cares for you." \n- 1 Peter 5:7 \n\nActivities: \n- Write down things you need to let go of and why. \n- Meditate on the Bible verse and surrender your worries to God. \n- Perform a symbolic act of letting go, like releasing a balloon.
+DESCRIPTION:Bible Verse: "Cast all your anxiety on him because he cares for you." \n- 1 Peter 5:7 \n\nActivities: \n● Write down things you need to let go of and why. \n● Meditate on the Bible verse and surrender your worries to God. \n● Perform a symbolic act of letting go, like releasing a balloon.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -86,7 +86,319 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250107
 DTEND;VALUE=DATE:20250108
 SUMMARY:Building Habits
-DESCRIPTION:Bible Verse: "For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it." \n- Hebrews 12:11 \n\nActivities: \n- Choose one habit to develop this month and create a plan to achieve it. \n- Track your progress daily and adjust as needed. \n- Pray for perseverance and discipline.
+DESCRIPTION:Bible Verse: "For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it." \n- Hebrews 12:11 \n\nActivities: \n● Choose one habit to develop this month and create a plan to achieve it. \n● Track your progress daily and adjust as needed. \n● Pray for perseverance and discipline.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-8@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250108
+DTEND;VALUE=DATE:20250109
+SUMMARY:New Opportunities
+DESCRIPTION:Bible Verse: "For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope." \n- Jeremiah 29:11 \n\nActivities: \n● Reflect on the opportunities you are grateful for. \n● Seek out a new opportunity today, whether big or small. \n● Pray for guidance in recognizing and seizing new opportunities.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-9@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250109
+DTEND;VALUE=DATE:20250110
+SUMMARY:Self-Discovery
+DESCRIPTION:Bible Verse: "I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well." \n- Psalm 139:14 \n\nActivities: \n● Spend time journaling about your strengths and passions. \n● Take a personality test to learn more about yourself. \n● Pray for insight into your God-given talents and purpose.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-10@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250110
+DTEND;VALUE=DATE:20250111
+SUMMARY:Reflecting on the Past
+DESCRIPTION:Bible Verse: "Remember the days of old; consider the years of many generations; ask your father, and he will show you, your elders, and they will tell you." \n- Deuteronomy 32:7 \n\nActivities: \n● Reflect on the lessons you learned last year. \n● Write down three significant memories and what you gained from them. \n● Pray for wisdom to apply these lessons in the future.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-11@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250111
+DTEND;VALUE=DATE:20250112
+SUMMARY:Future Plans
+DESCRIPTION:Bible Verse: "The heart of man plans his way, but the LORD establishes his steps." \n- Proverbs 16:9 \n\nActivities: \n● Outline your plans and dreams for the future. \n● Create a vision board to visualize your goals. \n● Pray for God's guidance in your plans.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-12@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250112
+DTEND;VALUE=DATE:20250113
+SUMMARY:Growth Mindset
+DESCRIPTION:Bible Verse: "Do not conform to the pattern of this world, but be transformed by the renewing of your mind." \n- Romans 12:2 \n\nActivities: \n● Identify areas where you can develop a growth mindset. \n● Read a book or article on growth mindset. \n● Pray for an open and receptive mind to growth.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-13@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250113
+DTEND;VALUE=DATE:20250114
+SUMMARY:New Friendships
+DESCRIPTION:Bible Verse: "A friend loves at all times, and a brother is born for a time of adversity." \n- Proverbs 17:17 \n\nActivities: \n● Reach out to someone new and introduce yourself. \n● Plan a get-together with friends to strengthen bonds. \n● Pray for meaningful and supportive friendships.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-14@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250114
+DTEND;VALUE=DATE:20250115
+SUMMARY:Personal Development
+DESCRIPTION:Bible Verse: "And Jesus grew in wisdom and stature, and in favor with God and man." \n- Luke 2:52 \n\nActivities: \n● Set personal development goals for the year. \n● Enroll in a course or workshop to learn something new. \n● Pray for continuous personal growth and wisdom.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-15@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250115
+DTEND;VALUE=DATE:20250116
+SUMMARY:Family Bonds
+DESCRIPTION:Bible Verse: 'But if serving the LORD seems undesirable to you, then choose for yourselves this day whom you will serve, whether the gods your ancestors served beyond the Euphrates, or the gods of the Amorites, in whose land you are living. But as for me and my household, we will serve the LORD.' \n- Joshua 24:15 \n\nActivities: \n● Plan a family activity to strengthen bonds. \n● Share a meal together and have a meaningful conversation. \n● Pray for unity and love within your family.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-16@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250116
+DTEND;VALUE=DATE:20250117
+SUMMARY:Spiritual Renewal
+DESCRIPTION:Bible Verse: 'Create in me a pure heart, O God, and renew a steadfast spirit within me.' \n- Psalm 51:10 \n\nActivities: \n● Dedicate time to read the Bible and reflect on its teachings. \n● Attend a church service or spiritual retreat. \n● Pray for spiritual renewal and a closer relationship with God.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-17@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250117
+DTEND;VALUE=DATE:20250118
+SUMMARY:Learning from Mistakes
+DESCRIPTION:Bible Verse: 'My son, do not despise the LORD's discipline, and do not resent his rebuke, because the LORD disciplines those he loves, as a father the son he delights in.' \n- Proverbs 3:11-12 \n\nActivities: \n● Reflect on mistakes you've made and what you've learned from them. \n● Write down steps to avoid making the same mistakes in the future. \n● Pray for forgiveness and guidance in learning from your errors.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-18@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250118
+DTEND;VALUE=DATE:20250119
+SUMMARY:Breaking Old Patterns
+DESCRIPTION:Bible Verse: 'And do not be conformed to this world, but be transformed by the renewing of your mind.' \n- Romans 12:2 \n\nActivities: \n● Identify an old pattern you want to break and why. \n● Create a plan to replace this pattern with a positive habit. \n● Pray for strength and determination to break free from old patterns.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-19@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250119
+DTEND;VALUE=DATE:20250120
+SUMMARY:Embracing Challenges
+DESCRIPTION:Bible Verse: 'Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.' \n- James 1:2-3 \n\nActivities: \n● Reflect on a recent challenge and how it helped you grow. \n● Write down a challenge you want to tackle this year and plan steps to overcome it. \n● Pray for resilience and joy in facing challenges.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-20@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250120
+DTEND;VALUE=DATE:20250121
+SUMMARY:Renewed Faith
+DESCRIPTION:Bible Verse: 'But those who hope in the LORD will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.' \n- Isaiah 40:31 \n\nActivities: \n● Reflect on your faith journey and areas where it needs renewal. \n● Read a faith-based book or listen to a podcast to inspire you. \n● Pray for renewed faith and trust in God's plan.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-21@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250121
+DTEND;VALUE=DATE:20250122
+SUMMARY:Positive Thinking
+DESCRIPTION:Bible Verse: 'Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things.' \n- Philippians 4:8 \n\nActivities: \n● Write down three positive thoughts each morning. \n● Surround yourself with positive influences and eliminate negativity. \n● Pray for a positive mindset and a grateful heart.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-22@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250122
+DTEND;VALUE=DATE:20250123
+SUMMARY:New Experiences
+DESCRIPTION:Bible Verse: 'Forget the former things; do not dwell on the past. See, I am doing a new thing! Now it springs up; do you not perceive it?' \n- Isaiah 43:18-19 \n\nActivities: \n● Try a new activity or hobby you've never done before. \n● Visit a new place in your city or neighborhood. \n● Pray for openness to new experiences and growth.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-23@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250123
+DTEND;VALUE=DATE:20250124
+SUMMARY:Reconnecting with Nature
+DESCRIPTION:Bible Verse: 'The earth is the LORD's, and everything in it, the world, and all who live in it.' \n- Psalm 24:1 \n\nActivities: \n● Spend time outside appreciating God's creation. \n● Take a nature walk or hike and reflect on the beauty around you. \n● Pray for a deeper connection with nature and the environment.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-24@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250124
+DTEND;VALUE=DATE:20250125
+SUMMARY:Trying Something New
+DESCRIPTION:Bible Verse: 'Behold, I am making all things new.' \n- Revelation 21:5 \n\nActivities: \n● Try a new recipe or dish you’ve never made before. \n● Visit a place in your city you've never been to. \n● Reflect on how trying new things can lead to personal growth and pray for openness to new experiences.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-25@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250125
+DTEND;VALUE=DATE:20250126
+SUMMARY:Fresh Perspectives
+DESCRIPTION:Bible Verse: 'Do not conform to the pattern of this world, but be transformed by the renewing of your mind.' \n- Romans 12:2 \n\nActivities: \n● Listen to a podcast or read an article from a different viewpoint. \n● Have a conversation with someone whose perspective differs from yours. \n● Reflect on the value of fresh perspectives and pray for a renewed mind.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-26@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250126
+DTEND;VALUE=DATE:20250127
+SUMMARY:Finding Purpose
+DESCRIPTION:Bible Verse: "For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope." \n- Jeremiah 29:11 \n\nActivities: \n● Write about your passions and interests and how they can serve others. \n● Set short-term and long-term goals that align with your purpose. \n● Pray for clarity and guidance in finding and fulfilling your purpose.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-27@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250128
+SUMMARY:Daily Inspirations
+DESCRIPTION:Bible Verse: 'All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness.' \n- 2 Timothy 3:16 \n\nActivities: \n● Start a daily habit of reading an inspiring quote or Bible verse each morning. \n● Share a daily inspiration with a friend or on social media. \n● Pray for continual inspiration and motivation in your daily life.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-28@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250128
+DTEND;VALUE=DATE:20250129
+SUMMARY:Creative Pursuits
+DESCRIPTION:Bible Verse: 'For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.' \n- Ephesians 2:10 \n\nActivities: \n● Engage in a creative activity, like painting, writing, or crafting. \n● Visit an art gallery or a museum to find inspiration. \n● Reflect on your creative talents and pray for ways to use them for good.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-29@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250129
+DTEND;VALUE=DATE:20250130
+SUMMARY:Gratitude for New Days
+DESCRIPTION:Bible Verse: 'This is the day that the LORD has made; let us rejoice and be glad in it.' \n- Psalm 118:24 \n\nActivities: \n● Start each day by writing down three things you're grateful for. \n● Spend a moment appreciating the beauty of each new day. \n● Pray with gratitude for the gift of another day.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-30@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250130
+DTEND;VALUE=DATE:20250131
+SUMMARY:Acts of Kindness
+DESCRIPTION:Bible Verse: 'Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you.' \n- Ephesians 4:32 \n\nActivities: \n● Perform a random act of kindness for someone today. \n● Write a thank-you note to someone who has been kind to you. \n● Reflect on the impact of kindness and pray for opportunities to be kind to others.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-31@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250131
+DTEND;VALUE=DATE:20250201
+SUMMARY:Looking Forward
+DESCRIPTION:Bible Verse: 'But one thing I do: Forgetting what is behind and straining toward what is ahead.' \n- Philippians 3:13 \n\nActivities: \n● Write a letter to your future self, outlining your hopes and dreams. \n● Set intentions for the upcoming month and year. \n● Pray for guidance and courage to move forward with faith and hope.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY

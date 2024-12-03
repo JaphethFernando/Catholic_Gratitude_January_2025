@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Enhanced Calendar Generator//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:event-1@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250102
+SUMMARY:Fresh Starts
+DESCRIPTION:Bible Verse: 'Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!' \n- 2 Corinthians 5:17  \n\nActivities: \n- Reflect on past mistakes and forgive yourself. \n- Write down three goals for the new year. \n- Spend 10 minutes in prayer.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-2@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250102
+DTEND;VALUE=DATE:20250103
+SUMMARY:Setting Goals
+DESCRIPTION:Bible Verse: "Commit to the LORD whatever you do, and he will establish your plans." \n- Proverbs 16:3 \n\nActivities: \n- List your top five goals for the year and outline steps to achieve them. \n- Pray for clarity and determination to pursue your goals. \n- Share your goals with a friend or family member for accountability.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250103
+DTEND;VALUE=DATE:20250104
+SUMMARY:Embracing Change
+DESCRIPTION:Bible Verse: "See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland." \n- Isaiah 43:19 \n\nActivities: \n- Write about a recent change in your life and how it has impacted you. \n- Make a list of positive changes you can embrace this year. \n- Pray for the courage to accept and adapt to new changes.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-4@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250104
+DTEND;VALUE=DATE:20250105
+SUMMARY:Overcoming Fear
+DESCRIPTION:Bible Verse: "For God has not given us a spirit of fear, but of power and of love and of a sound mind." \n- 2 Timothy 1:7 \n\nActivities: \n- Identify a fear that has been holding you back and write about it. \n- Take a small step toward facing this fear today. \n- Pray for strength and courage to overcome your fears.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-5@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250105
+DTEND;VALUE=DATE:20250106
+SUMMARY:Starting Fresh
+DESCRIPTION:Bible Verse: "Create in me a pure heart, O God, and renew a steadfast spirit within me." \n- Psalm 51:10 \n\nActivities: \n- Reflect on areas of your life that need a fresh start. \n- Write a letter to yourself expressing your hopes for this new beginning. \n- Spend time in prayer, asking God to help you start anew.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-6@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250106
+DTEND;VALUE=DATE:20250107
+SUMMARY:Letting Go
+DESCRIPTION:Bible Verse: "Cast all your anxiety on him because he cares for you." \n- 1 Peter 5:7 \n\nActivities: \n- Write down things you need to let go of and why. \n- Meditate on the Bible verse and surrender your worries to God. \n- Perform a symbolic act of letting go, like releasing a balloon.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-7@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250107
+DTEND;VALUE=DATE:20250108
+SUMMARY:Building Habits
+DESCRIPTION:Bible Verse: "For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it." \n- Hebrews 12:11 \n\nActivities: \n- Choose one habit to develop this month and create a plan to achieve it. \n- Track your progress daily and adjust as needed. \n- Pray for perseverance and discipline.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

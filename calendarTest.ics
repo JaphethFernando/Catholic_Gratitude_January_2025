@@ -8,7 +8,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250101
 DTEND;VALUE=DATE:20250102
 SUMMARY:Fresh Starts
-DESCRIPTION:Bible Verse: 'Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!' \n- 2 Corinthians 5:17  \n\nActivities: \n● Reflect on past mistakes and forgive yourself. \n● Write down three goals for the new year. \n● Spend 10 minutes in prayer.
+DESCRIPTION:Bible Verse: "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!" \n- 2 Corinthians 5:17  \n\nActivities: \n● Reflect on past mistakes and forgive yourself. \n● Write down three goals for the new year. \n● Spend 10 minutes in prayer.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -190,7 +190,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250115
 DTEND;VALUE=DATE:20250116
 SUMMARY:Family Bonds
-DESCRIPTION:Bible Verse: 'But if serving the LORD seems undesirable to you, then choose for yourselves this day whom you will serve, whether the gods your ancestors served beyond the Euphrates, or the gods of the Amorites, in whose land you are living. But as for me and my household, we will serve the LORD.' \n- Joshua 24:15 \n\nActivities: \n● Plan a family activity to strengthen bonds. \n● Share a meal together and have a meaningful conversation. \n● Pray for unity and love within your family.
+DESCRIPTION:Bible Verse: "But if serving the LORD seems undesirable to you, then choose for yourselves this day whom you will serve, whether the gods your ancestors served beyond the Euphrates, or the gods of the Amorites, in whose land you are living. But as for me and my household, we will serve the LORD." \n- Joshua 24:15 \n\nActivities: \n● Plan a family activity to strengthen bonds. \n● Share a meal together and have a meaningful conversation. \n● Pray for unity and love within your family.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -203,7 +203,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250116
 DTEND;VALUE=DATE:20250117
 SUMMARY:Spiritual Renewal
-DESCRIPTION:Bible Verse: 'Create in me a pure heart, O God, and renew a steadfast spirit within me.' \n- Psalm 51:10 \n\nActivities: \n● Dedicate time to read the Bible and reflect on its teachings. \n● Attend a church service or spiritual retreat. \n● Pray for spiritual renewal and a closer relationship with God.
+DESCRIPTION:Bible Verse: "Create in me a pure heart, O God, and renew a steadfast spirit within me." \n- Psalm 51:10 \n\nActivities: \n● Dedicate time to read the Bible and reflect on its teachings. \n● Attend a church service or spiritual retreat. \n● Pray for spiritual renewal and a closer relationship with God.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -216,7 +216,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250117
 DTEND;VALUE=DATE:20250118
 SUMMARY:Learning from Mistakes
-DESCRIPTION:Bible Verse: 'My son, do not despise the LORD's discipline, and do not resent his rebuke, because the LORD disciplines those he loves, as a father the son he delights in.' \n- Proverbs 3:11-12 \n\nActivities: \n● Reflect on mistakes you've made and what you've learned from them. \n● Write down steps to avoid making the same mistakes in the future. \n● Pray for forgiveness and guidance in learning from your errors.
+DESCRIPTION:Bible Verse: "My son, do not despise the LORD's discipline, and do not resent his rebuke, because the LORD disciplines those he loves, as a father the son he delights in." \n- Proverbs 3:11-12 \n\nActivities: \n● Reflect on mistakes you've made and what you've learned from them. \n● Write down steps to avoid making the same mistakes in the future. \n● Pray for forgiveness and guidance in learning from your errors.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -229,7 +229,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250118
 DTEND;VALUE=DATE:20250119
 SUMMARY:Breaking Old Patterns
-DESCRIPTION:Bible Verse: 'And do not be conformed to this world, but be transformed by the renewing of your mind.' \n- Romans 12:2 \n\nActivities: \n● Identify an old pattern you want to break and why. \n● Create a plan to replace this pattern with a positive habit. \n● Pray for strength and determination to break free from old patterns.
+DESCRIPTION:Bible Verse: "And do not be conformed to this world, but be transformed by the renewing of your mind." \n- Romans 12:2 \n\nActivities: \n● Identify an old pattern you want to break and why. \n● Create a plan to replace this pattern with a positive habit. \n● Pray for strength and determination to break free from old patterns.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -242,7 +242,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250119
 DTEND;VALUE=DATE:20250120
 SUMMARY:Embracing Challenges
-DESCRIPTION:Bible Verse: 'Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.' \n- James 1:2-3 \n\nActivities: \n● Reflect on a recent challenge and how it helped you grow. \n● Write down a challenge you want to tackle this year and plan steps to overcome it. \n● Pray for resilience and joy in facing challenges.
+DESCRIPTION:Bible Verse: "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance." \n- James 1:2-3 \n\nActivities: \n● Reflect on a recent challenge and how it helped you grow. \n● Write down a challenge you want to tackle this year and plan steps to overcome it. \n● Pray for resilience and joy in facing challenges.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -255,7 +255,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250120
 DTEND;VALUE=DATE:20250121
 SUMMARY:Renewed Faith
-DESCRIPTION:Bible Verse: 'But those who hope in the LORD will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.' \n- Isaiah 40:31 \n\nActivities: \n● Reflect on your faith journey and areas where it needs renewal. \n● Read a faith-based book or listen to a podcast to inspire you. \n● Pray for renewed faith and trust in God's plan.
+DESCRIPTION:Bible Verse: "But those who hope in the LORD will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint." \n- Isaiah 40:31 \n\nActivities: \n● Reflect on your faith journey and areas where it needs renewal. \n● Read a faith-based book or listen to a podcast to inspire you. \n● Pray for renewed faith and trust in God's plan.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -268,7 +268,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250121
 DTEND;VALUE=DATE:20250122
 SUMMARY:Positive Thinking
-DESCRIPTION:Bible Verse: 'Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things.' \n- Philippians 4:8 \n\nActivities: \n● Write down three positive thoughts each morning. \n● Surround yourself with positive influences and eliminate negativity. \n● Pray for a positive mindset and a grateful heart.
+DESCRIPTION:Bible Verse: "Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things." \n- Philippians 4:8 \n\nActivities: \n● Write down three positive thoughts each morning. \n● Surround yourself with positive influences and eliminate negativity. \n● Pray for a positive mindset and a grateful heart.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -281,7 +281,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250122
 DTEND;VALUE=DATE:20250123
 SUMMARY:New Experiences
-DESCRIPTION:Bible Verse: 'Forget the former things; do not dwell on the past. See, I am doing a new thing! Now it springs up; do you not perceive it?' \n- Isaiah 43:18-19 \n\nActivities: \n● Try a new activity or hobby you've never done before. \n● Visit a new place in your city or neighborhood. \n● Pray for openness to new experiences and growth.
+DESCRIPTION:Bible Verse: "Forget the former things; do not dwell on the past. See, I am doing a new thing! Now it springs up; do you not perceive it?" \n- Isaiah 43:18-19 \n\nActivities: \n● Try a new activity or hobby you've never done before. \n● Visit a new place in your city or neighborhood. \n● Pray for openness to new experiences and growth.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -294,7 +294,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250123
 DTEND;VALUE=DATE:20250124
 SUMMARY:Reconnecting with Nature
-DESCRIPTION:Bible Verse: 'The earth is the LORD's, and everything in it, the world, and all who live in it.' \n- Psalm 24:1 \n\nActivities: \n● Spend time outside appreciating God's creation. \n● Take a nature walk or hike and reflect on the beauty around you. \n● Pray for a deeper connection with nature and the environment.
+DESCRIPTION:Bible Verse: "The earth is the LORD's, and everything in it, the world, and all who live in it." \n- Psalm 24:1 \n\nActivities: \n● Spend time outside appreciating God's creation. \n● Take a nature walk or hike and reflect on the beauty around you. \n● Pray for a deeper connection with nature and the environment.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -307,7 +307,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250124
 DTEND;VALUE=DATE:20250125
 SUMMARY:Trying Something New
-DESCRIPTION:Bible Verse: 'Behold, I am making all things new.' \n- Revelation 21:5 \n\nActivities: \n● Try a new recipe or dish you’ve never made before. \n● Visit a place in your city you've never been to. \n● Reflect on how trying new things can lead to personal growth and pray for openness to new experiences.
+DESCRIPTION:Bible Verse: "Behold, I am making all things new." \n- Revelation 21:5 \n\nActivities: \n● Try a new recipe or dish you’ve never made before. \n● Visit a place in your city you've never been to. \n● Reflect on how trying new things can lead to personal growth and pray for openness to new experiences.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -320,7 +320,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250125
 DTEND;VALUE=DATE:20250126
 SUMMARY:Fresh Perspectives
-DESCRIPTION:Bible Verse: 'Do not conform to the pattern of this world, but be transformed by the renewing of your mind.' \n- Romans 12:2 \n\nActivities: \n● Listen to a podcast or read an article from a different viewpoint. \n● Have a conversation with someone whose perspective differs from yours. \n● Reflect on the value of fresh perspectives and pray for a renewed mind.
+DESCRIPTION:Bible Verse: "Do not conform to the pattern of this world, but be transformed by the renewing of your mind." \n- Romans 12:2 \n\nActivities: \n● Listen to a podcast or read an article from a different viewpoint. \n● Have a conversation with someone whose perspective differs from yours. \n● Reflect on the value of fresh perspectives and pray for a renewed mind.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -346,7 +346,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250127
 DTEND;VALUE=DATE:20250128
 SUMMARY:Daily Inspirations
-DESCRIPTION:Bible Verse: 'All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness.' \n- 2 Timothy 3:16 \n\nActivities: \n● Start a daily habit of reading an inspiring quote or Bible verse each morning. \n● Share a daily inspiration with a friend or on social media. \n● Pray for continual inspiration and motivation in your daily life.
+DESCRIPTION:Bible Verse: "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness." \n- 2 Timothy 3:16 \n\nActivities: \n● Start a daily habit of reading an inspiring quote or Bible verse each morning. \n● Share a daily inspiration with a friend or on social media. \n● Pray for continual inspiration and motivation in your daily life.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -359,7 +359,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250128
 DTEND;VALUE=DATE:20250129
 SUMMARY:Creative Pursuits
-DESCRIPTION:Bible Verse: 'For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.' \n- Ephesians 2:10 \n\nActivities: \n● Engage in a creative activity, like painting, writing, or crafting. \n● Visit an art gallery or a museum to find inspiration. \n● Reflect on your creative talents and pray for ways to use them for good.
+DESCRIPTION:Bible Verse: "For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do." \n- Ephesians 2:10 \n\nActivities: \n● Engage in a creative activity, like painting, writing, or crafting. \n● Visit an art gallery or a museum to find inspiration. \n● Reflect on your creative talents and pray for ways to use them for good.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -372,7 +372,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250129
 DTEND;VALUE=DATE:20250130
 SUMMARY:Gratitude for New Days
-DESCRIPTION:Bible Verse: 'This is the day that the LORD has made; let us rejoice and be glad in it.' \n- Psalm 118:24 \n\nActivities: \n● Start each day by writing down three things you're grateful for. \n● Spend a moment appreciating the beauty of each new day. \n● Pray with gratitude for the gift of another day.
+DESCRIPTION:Bible Verse: "This is the day that the LORD has made; let us rejoice and be glad in it." \n- Psalm 118:24 \n\nActivities: \n● Start each day by writing down three things you're grateful for. \n● Spend a moment appreciating the beauty of each new day. \n● Pray with gratitude for the gift of another day.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -385,7 +385,7 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250130
 DTEND;VALUE=DATE:20250131
 SUMMARY:Acts of Kindness
-DESCRIPTION:Bible Verse: 'Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you.' \n- Ephesians 4:32 \n\nActivities: \n● Perform a random act of kindness for someone today. \n● Write a thank-you note to someone who has been kind to you. \n● Reflect on the impact of kindness and pray for opportunities to be kind to others.
+DESCRIPTION:Bible Verse: "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you." \n- Ephesians 4:32 \n\nActivities: \n● Perform a random act of kindness for someone today. \n● Write a thank-you note to someone who has been kind to you. \n● Reflect on the impact of kindness and pray for opportunities to be kind to others.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -398,7 +398,372 @@ DTSTAMP:20241129T022556Z
 DTSTART;VALUE=DATE:20250131
 DTEND;VALUE=DATE:20250201
 SUMMARY:Looking Forward
-DESCRIPTION:Bible Verse: 'But one thing I do: Forgetting what is behind and straining toward what is ahead.' \n- Philippians 3:13 \n\nActivities: \n● Write a letter to your future self, outlining your hopes and dreams. \n● Set intentions for the upcoming month and year. \n● Pray for guidance and courage to move forward with faith and hope.
+DESCRIPTION:Bible Verse: "But one thing I do: Forgetting what is behind and straining toward what is ahead." \n- Philippians 3:13 \n\nActivities: \n● Write a letter to your future self, outlining your hopes and dreams. \n● Set intentions for the upcoming month and year. \n● Pray for guidance and courage to move forward with faith and hope.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-32@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250201
+DTEND;VALUE=DATE:20250202
+SUMMARY:Loving Yourself
+DESCRIPTION:Bible Verse: "I praise you because I am fearfully and wonderfully made; your works are wonderful, I know that full well." \n- Psalm 139:14  \n\nActivities: \n● Write a list of qualities you love about yourself. \n● Spend time doing something you enjoy and that makes you feel good. \n● Pray for self-acceptance and gratitude for how God created you.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-33@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250202
+DTEND;VALUE=DATE:20250203
+SUMMARY:Acts of Kindness
+DESCRIPTION:Bible Verse: "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you." \n- Ephesians 4:32  \n\nActivities: \n● Perform a random act of kindness for a stranger. \n● Write a thank you note to someone who has shown you kindness. \n● Reflect on how kindness has impacted your life and pray for opportunities to be kind.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-34@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250204
+SUMMARY:Compassion for Others
+DESCRIPTION:Bible Verse: "Finally, all of you, be like-minded, be sympathetic, love one another, be compassionate and humble." \n- 1 Peter 3:8  \n\nActivities: \n● Volunteer at a local charity or community service. \n● Offer a listening ear to someone who needs to talk. \n● Pray for a compassionate heart that reaches out to others in need.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-35@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250204
+DTEND;VALUE=DATE:20250205
+SUMMARY:Forgiving Past Hurts
+DESCRIPTION:Bible Verse: "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you." \n- Ephesians 4:32  \n\nActivities: \n● Write a letter of forgiveness to someone who has hurt you (even if you don’t send it). \n● Meditate on the Bible verse and ask God to help you forgive. \n● Perform an act of kindness for someone you need to forgive.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-36@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250205
+DTEND;VALUE=DATE:20250206
+SUMMARY:Love in Action
+DESCRIPTION:Bible Verse: "Dear children, let us not love with words or speech but with actions and in truth." \n- 1 John 3:18  \n\nActivities: \n● Do something special for a loved one without expecting anything in return. \n● Volunteer your time or resources to help someone in need. \n● Pray for the ability to love actively and genuinely.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-37@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250206
+DTEND;VALUE=DATE:20250207
+SUMMARY:Caring for Family
+DESCRIPTION:Bible Verse: "But if serving the LORD seems undesirable to you, then choose for yourselves this day whom you will serve, whether the gods your ancestors served beyond the Euphrates, or the gods of the Amorites, in whose land you are living. But as for me and my household, we will serve the LORD." \n- Joshua 24:15  \n\nActivities: \n● Plan a family activity to strengthen your bonds. \n● Share a meal and meaningful conversation with your family. \n● Pray for unity and love within your family.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-38@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250207
+DTEND;VALUE=DATE:20250208
+SUMMARY:Friendships
+DESCRIPTION:Bible Verse: "A friend loves at all times, and a brother is born for a time of adversity." \n- Proverbs 17:17  \n\nActivities: \n● Reach out to a friend and let them know how much they mean to you. \n● Plan a get-together with friends to strengthen your friendships. \n● Pray for meaningful and supportive friendships in your life.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-39@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250208
+DTEND;VALUE=DATE:20250209
+SUMMARY:Random Acts of Kindness
+DESCRIPTION:Bible Verse: "Do not neglect to show hospitality to strangers, for thereby some have entertained angels unawares." \n- Hebrews 13:2  \n\nActivities: \n● Pay for someone's coffee or meal unexpectedly. \n● Leave a kind note for someone to find. \n● Reflect on how these small acts can make a big difference and pray for more opportunities to be kind.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-40@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250209
+DTEND;VALUE=DATE:20250210
+SUMMARY:Supporting Community
+DESCRIPTION:Bible Verse: "Carry each other’s burdens, and in this way you will fulfill the law of Christ." \n- Galatians 6:2  \n\nActivities: \n● Get involved in a community project or event. \n● Offer support to a neighbor or community member in need. \n● Pray for the well-being and unity of your community.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-41@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250211
+SUMMARY:Empathy
+DESCRIPTION:Bible Verse: "Rejoice with those who rejoice; mourn with those who mourn." \n- Romans 12:15  \n\nActivities: \n● Listen to someone's story without judgment and offer your support. \n● Reflect on a time when you needed empathy and how it helped you. \n● Pray for a heart that is open to understanding and empathizing with others.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:event-42@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250211
+DTEND;VALUE=DATE:20250212
+SUMMARY:Loving the Unloved
+DESCRIPTION:Bible Verse: "The King will reply, ‘Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.’" - Matthew 25:40 \n\nActivities: \n● Reach out to someone who may feel unloved or forgotten. \n● Volunteer with organizations that help the marginalized or homeless. \n● Pray for the ability to see and love those who are often overlooked.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-43@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250212
+DTEND;VALUE=DATE:20250213
+SUMMARY:Compassionate Listening
+DESCRIPTION:Bible Verse: "My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry." \n- James 1:19 \n\nActivities: \n● Practice active listening with someone today, giving them your full attention. \n● Reflect on the importance of listening in building relationships. \n● Pray for the patience and compassion to listen without judgment.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-44@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250213
+DTEND;VALUE=DATE:20250214
+SUMMARY:Showing Appreciation
+DESCRIPTION:Bible Verse: "Give thanks in all circumstances; for this is God’s will for you in Christ Jesus." \n- 1 Thessalonians 5:18 \n\nActivities: \n● Write a thank you note to someone who has made a difference in your life. \n● Show appreciation through a small gift or gesture. \n● Reflect on the blessings in your life and pray with gratitude.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-45@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250214
+DTEND;VALUE=DATE:20250215
+SUMMARY:Selfless Love
+DESCRIPTION:Bible Verse: "Greater love has no one than this: to lay down one’s life for one’s friends." \n- John 15:13 \n\nActivities: \n● Perform a selfless act for someone today, expecting nothing in return. \n● Reflect on the ways you can show selfless love in your relationships. \n● Pray for a heart that loves unconditionally and selflessly.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-46@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250215
+DTEND;VALUE=DATE:20250216
+SUMMARY:Building Relationships
+DESCRIPTION:Bible Verse: "Therefore encourage one another and build each other up, just as in fact you are doing." \n- 1 Thessalonians 5:11 \n\nActivities: \n● Reach out to build or mend a relationship that needs attention. \n● Plan a social gathering to strengthen your connections. \n● Pray for wisdom and grace in building strong and healthy relationships.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-47@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250216
+DTEND;VALUE=DATE:20250217
+SUMMARY:Love of God
+DESCRIPTION:Bible Verse: "And so we know and rely on the love God has for us. God is love. Whoever lives in love lives in God, and God in them." \n- 1 John 4:16 \n\nActivities: \n● Spend time in prayer, reflecting on God's love for you. \n● Read a passage from the Bible about God's love and meditate on it. \n● Share God's love with someone who may need encouragement.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-48@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250218
+SUMMARY:Prayers for Others
+DESCRIPTION:Bible Verse: "I urge, then, first of all, that petitions, prayers, intercession and thanksgiving be made for all people." \n- 1 Timothy 2:1 \n\nActivities: \n● Make a list of people you want to pray for and spend time praying for them. \n● Reach out to someone and ask if they have any prayer requests. \n● Reflect on the power of intercessory prayer and how it can make a difference.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-49@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250218
+DTEND;VALUE=DATE:20250219
+SUMMARY:Helping Hand
+DESCRIPTION:Bible Verse: "In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven." \n- Matthew 5:16 \n\nActivities: \n● Offer to help someone with a task or project. \n● Volunteer your time or skills to assist others. \n● Pray for opportunities to be a helping hand and a light to others.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-50@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250219
+DTEND;VALUE=DATE:20250220
+SUMMARY:Encouraging Words
+DESCRIPTION:Bible Verse: "Therefore encourage one another and build each other up, just as in fact you are doing." \n- 1 Thessalonians 5:11 \n\nActivities: \n● Write an encouraging note or message to someone who may need it. \n● Speak words of encouragement and positivity to those around you. \n● Reflect on how encouragement has impacted you and pray for the ability to uplift others.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-51@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250220
+DTEND;VALUE=DATE:20250221
+SUMMARY:Love for Nature
+DESCRIPTION:Bible Verse: "The earth is the LORD's, and everything in it, the world, and all who live in it." \n- Psalm 24:1 \n\nActivities: \n● Spend time outdoors appreciating God's creation. \n● Participate in a nature conservation or cleanup project. \n● Reflect on the beauty of nature and pray for a heart that cares for the environment.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-52@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250221
+DTEND;VALUE=DATE:20250222
+SUMMARY:Healing Relationships
+DESCRIPTION:Bible Verse: "Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you." \n- Colossians 3:13 \n\nActivities: \n● Reach out to someone you have had a conflict with and seek reconciliation. \n● Reflect on the importance of forgiveness in healing relationships. \n● Pray for the ability to forgive and heal broken relationships.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-53@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250222
+DTEND;VALUE=DATE:20250223
+SUMMARY:Joy in Serving
+DESCRIPTION:Bible Verse: "Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace in its various forms." \n- 1 Peter 4:10 \n\nActivities: \n● Volunteer your time or resources to help a local charity. \n● Reflect on how serving others brings joy to your life. \n● Pray for a heart that finds joy in serving and helping others.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-54@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250223
+DTEND;VALUE=DATE:20250224
+SUMMARY:Strengthening Bonds
+DESCRIPTION:Bible Verse: "Let us not give up meeting together, as some are in the habit of doing, but encouraging one another—and all the more as you see the Day approaching." \n- Hebrews 10:25 \n\nActivities: \n● Plan a gathering or activity with friends or family to strengthen your relationships. \n● Write a letter or message to someone you want to reconnect with. \n● Pray for the strengthening of bonds with your loved ones.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-55@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250224
+DTEND;VALUE=DATE:20250225
+SUMMARY:Love Beyond Borders
+DESCRIPTION:Bible Verse: "There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus." \n- Galatians 3:28 \n\nActivities: \n● Learn about a different culture and share what you learn with others. \n● Volunteer with an organization that supports international aid. \n● Pray for unity and love that transcends borders and differences.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-56@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250225
+DTEND;VALUE=DATE:20250226
+SUMMARY:Gentle Spirit
+DESCRIPTION:Bible Verse: "Let your gentleness be evident to all. The Lord is near." \n- Philippians 4:5 \n\nActivities: \n● Practice being gentle in your interactions with others today. \n● Reflect on the importance of having a gentle spirit in relationships. \n● Pray for a gentle and humble heart.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250226
+DTEND;VALUE=DATE:20250227
+SUMMARY:Kind Thoughts
+DESCRIPTION:Bible Verse: "Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things." \n- Philippians 4:8 \n\nActivities: \n● Spend time meditating on positive and kind thoughts. \n● Write a list of affirmations and read them out loud. \n● Pray for a mind that is filled with kind and positive thoughts.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-58@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250227
+DTEND;VALUE=DATE:20250228
+SUMMARY:Charity Work
+DESCRIPTION:Bible Verse: "Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver." \n- 2 Corinthians 9:7 \n\nActivities: \n● Donate to a charity or cause you care about. \n● Volunteer your time to help with a local charity event. \n● Reflect on the impact of charity work and pray for opportunities to give cheerfully.
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-59@example.com
+DTSTAMP:20241129T022556Z
+DTSTART;VALUE=DATE:20250228
+DTEND;VALUE=DATE:20250301
+SUMMARY:Loving Your Enemies
+DESCRIPTION:Bible Verse: "But I tell you, love your enemies and pray for those who persecute you." \n- Matthew 5:44 \n\nActivities: \n● Reflect on someone you consider an enemy and pray for them. \n● Perform an act of kindness for someone you have conflicts with. \n● Meditate on the importance of loving your enemies and pray for a heart that can love unconditionally.
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
